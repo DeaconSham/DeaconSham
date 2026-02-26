@@ -1,4 +1,4 @@
-hi i'm deacon 👋, interested in all embedded and ml things
+hi i'm deacon👋, interested in all embedded and ml things
 
 when not coding, you can find me at the badminton court or baking bread
 
